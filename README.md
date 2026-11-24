@@ -35,19 +35,6 @@ Building web apps, exploring AI, and competing in hackathons.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| 🧠 [**DocuAI**](https://github.com/SaptaparnaDas-04/docuai) | **[One line: e.g. AI tool that lets you ask questions about your documents]** | TypeScript |
-| 🕒 [**Attendance Tracker**](https://github.com/SaptaparnaDas-04/sapta_attendance_tracker) | **[One line: e.g. Web app to mark and view attendance]** | JavaScript |
-| 🌅 [**Sunrise Animation**](https://github.com/SaptaparnaDas-04/Sunrise_animation) | **[One line: e.g. Animated sunrise scene built with JS]** | JavaScript |
-| 🧙 [**Wizard Journey**](https://github.com/SaptaparnaDas-04/wizard-journey) | **[One line: e.g. Interactive wizard-themed web experience]** | HTML |
-| 🏛️ [**IBVAP: SIH 2026**](https://github.com/diganta-profile06/ibvap) | Our team project for Smart India Hackathon 2026 | C++ |
-| 🔬 [**MOBCO: IEEE CIS Research**](https://github.com/Supriti2206/MOBCO_Multi_Objective_Border_Collie_Optimization_IEEE) | Implementation of Multi-Objective Border Collie Optimization, done during a research internship under IEEE CIS | Python |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
