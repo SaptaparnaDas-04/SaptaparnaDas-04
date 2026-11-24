@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saptaparna Das 👋
+# Hey!! I'm Saptaparna Das 👋
 
 **Computer Science & Engineering student at KGEC (Class of 2028)**
 Building web apps, exploring AI, and competing in hackathons.
