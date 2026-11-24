@@ -35,17 +35,6 @@ Building web apps, exploring AI, and competing in hackathons.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaptaparnaDas-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaptaparnaDas-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to internships, collaborations, and hackathon teams.
