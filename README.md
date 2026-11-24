@@ -21,7 +21,6 @@ Building web apps, exploring AI, and competing in hackathons.
 - 🌱 Currently learning: **[e.g. system design, cloud, ML]**
 - 🏆 Participated in **Smart India Hackathon (SIH) 2026**
 - 🔬 Completed a **research internship under IEEE CIS** (Computational Intelligence Society)
-- 💬 Ask me about: **JavaScript, web development, [add more]**
 
 ---
 
